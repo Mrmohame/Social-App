@@ -44,6 +44,7 @@ let commentContentSpecific=commentContent?.current?.value || ""
 
         <TextField inputRef={commentContent} fullWidth multiline minRows={3} sx={{my:2}} id="outlined-basic" label="write comment" variant="outlined" placeholder='write comment'/>
     <Button onClick={CreateNewPost} variant="contained" endIcon={<SendIcon />}>
+    {/* endIcon={<SendIcon />} */}
   Send
 </Button>
     </div>

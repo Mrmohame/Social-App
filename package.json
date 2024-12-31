@@ -12,9 +12,10 @@
     "@emotion/cache": "^11.14.0",
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",
-    "@mui/icons-material": "^6.2.1",
-    "@mui/material": "^6.2.1",
+    "@mui/icons-material": "^6.3.0",
+    "@mui/material": "^6.3.0",
     "@mui/material-nextjs": "^6.2.1",
+    "@mui/styled-engine-sc": "^6.3.0",
     "@reduxjs/toolkit": "^2.5.0",
     "axios": "^1.7.9",
     "formik": "^2.4.6",
@@ -22,7 +23,8 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-hot-toast": "^2.4.1",
-    "react-redux": "^9.2.0"
+    "react-redux": "^9.2.0",
+    "styled-components": "^6.1.13"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
